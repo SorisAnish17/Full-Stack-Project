@@ -1,6 +1,6 @@
 # Full-Stack-Project
 
-🍽 Excited to share my latest project: My Recipe Hub! 📢
+🍽 Excited to share my latest project: My Foodie Fusion! 📢
 󰞽 As a passionate foodie and developer, I've combined my two passions to create an amazing
 Recipe Website using the MERN stack. 🥘
 🌐 My **Foodie Fusion** boasts a seamless user experience with:
@@ -22,7 +22,7 @@ recipe browsing experience. 🔄
 📢
 🛠 **MERN Stack Backend:** Robust and secure backend using MongoDB, Express.js,
 Node.js, and React for the ultimate recipe database. 🔒📊
-👉 Check it out: [Insert Link]
+
 🚀 Whether you're a home chef or a culinary explorer, My Recipe Hub is your one-stop
 destination for culinary inspiration! 🍽
 Join me on this flavorful journey and let's explore the world of delicious recipes together! 🌍
